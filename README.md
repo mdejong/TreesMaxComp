@@ -1,9 +1,9 @@
 # TreesMaxComp
 Maximum layer composition performance test for iOS/SpriteKit
 
-This example app provides a GUI that makes it possible to add full screen iPad 2x sized images at 2048x1536 pixels.
+This example app provides a GUI that makes it possible to composite multiple full screen iPad 2x sized images at 2048x1536 pixels.
 
-I OpenGL mode: PrefersOpenGL=YES in Info.plist
+OpenGL mode: PrefersOpenGL=YES in Info.plist
 
 	With 7 layers : 60 FPS
 	With 8 layers : 50 FPS
